@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/salary-prediction/notebooks/mlruns/970869689354963253/1da22d117369461c96555849b732283c/artifacts
+end_time: 1743330602888
+entry_point_name: ''
+experiment_id: '970869689354963253'
+lifecycle_stage: active
+run_id: 1da22d117369461c96555849b732283c
+run_name: unequaled-crow-72
+run_uuid: 1da22d117369461c96555849b732283c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743330599850
+status: 3
+tags: []
+user_id: codespace

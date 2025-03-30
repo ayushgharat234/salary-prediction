@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/salary-prediction/notebooks/mlruns/812439559560736215/c92b491522dd44d184036f914ff86d03/artifacts
+end_time: 1743330821026
+entry_point_name: ''
+experiment_id: '812439559560736215'
+lifecycle_stage: active
+run_id: c92b491522dd44d184036f914ff86d03
+run_name: enthused-ant-45
+run_uuid: c92b491522dd44d184036f914ff86d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743330817142
+status: 3
+tags: []
+user_id: codespace

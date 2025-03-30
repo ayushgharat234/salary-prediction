@@ -1,0 +1,12 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Years_of_Experience_BoxCox"
+    ],
+    "data": [
+      [
+        2.6939366264698634
+      ]
+    ]
+  }
+}

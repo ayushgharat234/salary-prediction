@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/salary-prediction/notebooks/mlruns/970869689354963253/3729341c411643b4ac4b67641176f22b/artifacts
+end_time: 1743330597060
+entry_point_name: ''
+experiment_id: '970869689354963253'
+lifecycle_stage: active
+run_id: 3729341c411643b4ac4b67641176f22b
+run_name: enthused-eel-227
+run_uuid: 3729341c411643b4ac4b67641176f22b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743330591958
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/salary-prediction/notebooks/mlruns/970869689354963253/099279f36e89444c83fcb1a8f37806ee/artifacts
+end_time: 1743330599848
+entry_point_name: ''
+experiment_id: '970869689354963253'
+lifecycle_stage: active
+run_id: 099279f36e89444c83fcb1a8f37806ee
+run_name: delightful-steed-472
+run_uuid: 099279f36e89444c83fcb1a8f37806ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743330597062
+status: 3
+tags: []
+user_id: codespace

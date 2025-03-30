@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/salary-prediction/notebooks/mlruns/812439559560736215/732388b0db81454e806a1c826f7bfc5c/artifacts
+end_time: 1743330817140
+entry_point_name: ''
+experiment_id: '812439559560736215'
+lifecycle_stage: active
+run_id: 732388b0db81454e806a1c826f7bfc5c
+run_name: unleashed-smelt-626
+run_uuid: 732388b0db81454e806a1c826f7bfc5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743330814343
+status: 3
+tags: []
+user_id: codespace
