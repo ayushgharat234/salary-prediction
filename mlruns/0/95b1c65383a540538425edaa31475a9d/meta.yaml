@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gharat/Downloads/salary-prediction/mlruns/0/95b1c65383a540538425edaa31475a9d/artifacts
+end_time: 1743735750428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b1c65383a540538425edaa31475a9d
+run_name: adaptable-steed-709
+run_uuid: 95b1c65383a540538425edaa31475a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743735750238
+status: 3
+tags: []
+user_id: Gharat

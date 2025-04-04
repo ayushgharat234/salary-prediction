@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 artifact_location: mlflow-artifacts:/0
 creation_time: 1743330891361
 experiment_id: '0'
 last_update_time: 1743330891361
+=======
+artifact_location: file:///C:/Users/Gharat/Downloads/salary-prediction/mlruns/0
+creation_time: 1743734967873
+experiment_id: '0'
+last_update_time: 1743734967873
+>>>>>>> 65ec144b (Added the Modular code)
 lifecycle_stage: active
 name: Default
