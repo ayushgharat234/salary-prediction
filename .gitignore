@@ -1,1 +1,52 @@
+# Local storage location for MLFlow entities and artifacts
 mlruns/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Model artifacts and data
+models/
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Flask debug files
+instance/
+*.sqlite3
+
+# Compiled files
+*.egg-info/
+build/
+dist/
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Git credentials or secrets (if any)
+secrets.json
+config.yaml
